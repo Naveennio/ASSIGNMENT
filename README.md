@@ -1,1 +1,1 @@
-
+I have Completed the code using API and Requests method and also i have resolved the Captcha Issue and only for the first Page Captcha is present and for other pages it is not necessary the data is directly in the API.
