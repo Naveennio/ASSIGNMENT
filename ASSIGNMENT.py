@@ -4,7 +4,6 @@ from PIL import Image
 from io import BytesIO
 import easyocr
 import json
-page=1
 
 url = "http://epanjiyan.rajasthan.gov.in/e-search-page.aspx"
 JSONData=[]
